@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 11 Aug 2022 19:55:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18º Martes. 3/5/2022</title>
+      <link>http://localhost:1313/posts/martes/</link>
+      <pubDate>Thu, 11 Aug 2022 19:55:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/martes/</guid>
+      <description>
+Asistentes Edu Juan Pit Tate Millán Tato Nacho Curro Ricardo Juanitito María Paloma Isa María Valdayo Patri Cristina Sede Don Otilio </description>
+    </item>
+    
+    <item>
+      <title>Testpost</title>
+      <link>http://localhost:1313/posts/testpost/</link>
+      <pubDate>Thu, 11 Aug 2022 19:55:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/testpost/</guid>
+      <description>Esto es un post de test prueba aqui
+lista 1 lista 2 lista 3 </description>
+    </item>
+    
+  </channel>
+</rss>
