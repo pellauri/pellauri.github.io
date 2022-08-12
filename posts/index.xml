@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://pellauri.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 11 Aug 2022 19:55:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Aug 2022 19:55:26 +0200</lastBuildDate><atom:link href="http://pellauri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>18º Martes. 3/5/2022</title>
-      <link>http://localhost:1313/posts/martes/</link>
+      <link>http://pellauri.github.io/posts/martes/</link>
       <pubDate>Thu, 11 Aug 2022 19:55:26 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/martes/</guid>
+      <guid>http://pellauri.github.io/posts/martes/</guid>
       <description>
 Asistentes Edu Juan Pit Tate Millán Tato Nacho Curro Ricardo Juanitito María Paloma Isa María Valdayo Patri Cristina Sede Don Otilio </description>
     </item>
     
     <item>
       <title>Testpost</title>
-      <link>http://localhost:1313/posts/testpost/</link>
+      <link>http://pellauri.github.io/posts/testpost/</link>
       <pubDate>Thu, 11 Aug 2022 19:55:26 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/testpost/</guid>
+      <guid>http://pellauri.github.io/posts/testpost/</guid>
       <description>Esto es un post de test prueba aqui
 lista 1 lista 2 lista 3 </description>
     </item>
