@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pellauri.github.io/posts/martes/</loc>
-    <lastmod>2022-08-11T19:55:26+02:00</lastmod>
+    <loc>https://pellauri.github.io/</loc>
+    <lastmod>2022-08-28T20:28:02+02:00</lastmod>
   </url><url>
-    <loc>http://pellauri.github.io/</loc>
-    <lastmod>2022-08-11T19:55:26+02:00</lastmod>
+    <loc>https://pellauri.github.io/posts/</loc>
+    <lastmod>2022-08-28T20:28:02+02:00</lastmod>
   </url><url>
-    <loc>http://pellauri.github.io/posts/</loc>
-    <lastmod>2022-08-11T19:55:26+02:00</lastmod>
+    <loc>https://pellauri.github.io/posts/thirdpost/</loc>
+    <lastmod>2022-08-28T20:28:02+02:00</lastmod>
   </url><url>
-    <loc>http://pellauri.github.io/posts/testpost/</loc>
-    <lastmod>2022-08-11T19:55:26+02:00</lastmod>
+    <loc>https://pellauri.github.io/posts/secondpost/</loc>
+    <lastmod>2022-08-28T20:27:56+02:00</lastmod>
   </url><url>
-    <loc>http://pellauri.github.io/categories/</loc>
+    <loc>https://pellauri.github.io/posts/firstpost/</loc>
+    <lastmod>2022-08-28T20:18:29+02:00</lastmod>
   </url><url>
-    <loc>http://pellauri.github.io/tags/</loc>
+    <loc>https://pellauri.github.io/categories/</loc>
+  </url><url>
+    <loc>https://pellauri.github.io/tags/</loc>
   </url>
 </urlset>

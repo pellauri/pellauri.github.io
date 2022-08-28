@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://pellauri.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Martes Morta</title>
+    <link>https://pellauri.github.io/</link>
+    <description>Recent content on Martes Morta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Thu, 11 Aug 2022 19:55:26 +0200</lastBuildDate><atom:link href="http://pellauri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Aug 2022 20:28:02 +0200</lastBuildDate><atom:link href="https://pellauri.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>18º Martes. 3/5/2022</title>
-      <link>http://pellauri.github.io/posts/martes/</link>
-      <pubDate>Thu, 11 Aug 2022 19:55:26 +0200</pubDate>
+      <title>Thirdpost</title>
+      <link>https://pellauri.github.io/posts/thirdpost/</link>
+      <pubDate>Sun, 28 Aug 2022 20:28:02 +0200</pubDate>
       
-      <guid>http://pellauri.github.io/posts/martes/</guid>
-      <description>
-Asistentes Edu Juan Pit Tate Millán Tato Nacho Curro Ricardo Juanitito María Paloma Isa María Valdayo Patri Cristina Sede Don Otilio </description>
+      <guid>https://pellauri.github.io/posts/thirdpost/</guid>
+      <description>26º Martes 01/05/2022 Asistentes Uno Dos Este Sede </description>
     </item>
     
     <item>
-      <title>Testpost</title>
-      <link>http://pellauri.github.io/posts/testpost/</link>
-      <pubDate>Thu, 11 Aug 2022 19:55:26 +0200</pubDate>
+      <title>Secondpost</title>
+      <link>https://pellauri.github.io/posts/secondpost/</link>
+      <pubDate>Sun, 28 Aug 2022 20:27:56 +0200</pubDate>
       
-      <guid>http://pellauri.github.io/posts/testpost/</guid>
-      <description>Esto es un post de test prueba aqui
-lista 1 lista 2 lista 3 </description>
+      <guid>https://pellauri.github.io/posts/secondpost/</guid>
+      <description>25º Martes 01/05/2022 Asistentes Uno Dos Este Sede </description>
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>https://pellauri.github.io/posts/firstpost/</link>
+      <pubDate>Sun, 28 Aug 2022 20:18:29 +0200</pubDate>
+      
+      <guid>https://pellauri.github.io/posts/firstpost/</guid>
+      <description>24º Martes 01/05/2022 Asistentes Uno Dos Este Sede </description>
     </item>
     
   </channel>
